@@ -1,0 +1,25 @@
+{
+  "name": "sm-todolist",
+  "version": "1.0.0",
+  "description": "항해 강의를 구현하기 위한 레포",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangmokKIM1994/sm-todolist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SangmokKIM1994/sm-todolist/issues"
+  },
+  "homepage": "https://github.com/SangmokKIM1994/sm-todolist#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
